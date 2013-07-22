@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4666
+
+This plugin adds a :Berks command that runs berkshelf, with tab completion of subcommands. It also sets up Berksfiles to be highlighted as Ruby.
